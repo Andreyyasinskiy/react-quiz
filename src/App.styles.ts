@@ -14,7 +14,7 @@ export const GlobalStyle = createGlobalStyle`
     justify-content: center;
   }
   * {
-    font-family: 'Catamaran', sans-serif;
+    font-family: 'Gill Sans', sans-serif;
     box-sizing: border-box;
   }
 `;
